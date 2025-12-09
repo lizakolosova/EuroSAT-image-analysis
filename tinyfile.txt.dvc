@@ -1,0 +1,5 @@
+outs:
+- md5: d4a244c8da895b528beb95fb4a6d76a8
+  size: 5
+  hash: md5
+  path: tinyfile.txt
