@@ -2,3 +2,7 @@ dataset/
 /dataset
 .gcp/
 /tinyfile.txt
+*.csv
+*.json
+data/
+datasets/

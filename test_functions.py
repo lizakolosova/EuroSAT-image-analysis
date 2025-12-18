@@ -4,16 +4,16 @@ from utils import train_one_epoch, plot_training_curves
 
 # Test device
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-print(f"✅ Device: {device}")
+print(f" Device: {device}")
 
 # Test model creation
 model = SimpleCNN(num_classes=5)
-print(f"✅ Model created: {model.__class__.__name__}")
+print(f" Model created: {model.__class__.__name__}")
 
 # Test dummy data
 dummy_data = torch.randn(8, 3, 224, 224)
 output = model(dummy_data)
-print(f"✅ Forward pass successful: {output.shape}")
+print(f" Forward pass successful: {output.shape}")
 
 # Test history plotting
 history = {
