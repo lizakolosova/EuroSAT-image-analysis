@@ -6,6 +6,6 @@ dataset/
 *.json
 data/
 datasets/
-dl-project/models/scratch_cnn
-dl-project/models/resnet_baseline
-dl-project/models/resnet_final
+dl-project/saved_models/scratch_cnn
+dl-project/saved_models/resnet_baseline
+dl-project/saved_models/resnet_final
