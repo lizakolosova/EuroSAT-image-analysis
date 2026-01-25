@@ -9,3 +9,5 @@ datasets/
 dl-project/saved_models/scratch_cnn
 dl-project/saved_models/resnet_baseline
 dl-project/saved_models/resnet_final
+/dl-project/api/logs/api.log
+/dl-project/saved_models
