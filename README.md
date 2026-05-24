@@ -8,8 +8,8 @@
 ![Flask](https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask)
 
 **A deep learning application for satellite image classification using transfer learning**
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![img_1.png](docs/images/performance.png)
+![img_2.png](docs/images/screenshot2.png)
 </div>
 
 ## Overview
@@ -201,10 +201,10 @@ npm run dev
 - **Batch Size**: 32
 
 ### Per-Class Performance (ResNet50)
-![img.png](img.png)
+![img.png](docs/images/performance.png)
 ---
 
-## 📡 API Documentation
+## API Documentation
 
 ### Base URL
 ```
